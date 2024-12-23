@@ -1,7 +1,7 @@
-# CarMax
+# CarMax Project
 This project is a Python Colab notebook that presents an analysis conducted to provide marketing and inventory recommendations for CarMax's strategies aimed at optimizing operations for their new stores.
 
-# Challenge
+# Problem Statement
 CarMax is considering opening new stores in the United States. How should marketing and inventory strategy be approached to drive maximum sales depending on the location of the new store?
 
 # Data Set and Important Files
