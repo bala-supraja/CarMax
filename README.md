@@ -11,5 +11,6 @@ Disclaimer: This is pseudorandomly generated and manipulated CarMax data. No dat
 
 Relevant Files:
 
-Fall 2024 dataset.csv - the data set containing the relevant KMX purchases and non-purchases to be used in analysis
-Fall 2024 Showcase Data Dictionary.xlsx - information about each feature in the data set
+CarMax_Case_Study.ipynb - This file contains the Python code for analysis, including visualizations, commentary, and actionable suggestions.
+Fall 2024 dataset.csv - the data set containing the relevant KMX purchases and non-purchases to be used in the analysis.
+Fall 2024 Showcase Data Dictionary.xlsx - information about each feature in the data set.
